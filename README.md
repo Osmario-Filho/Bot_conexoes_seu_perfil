@@ -63,6 +63,8 @@ python nome_do_seu_script.py
 
 ## Atenção e Responsabilidade
 
+- O idioma padrão tem que ser português
+
 - Para que o script funcione corretamente, **é necessário desabilitar a verificação em duas etapas (autenticação de dois fatores)** na sua conta do LinkedIn.  
   Isso porque o script automatiza o login e não consegue lidar com a etapa extra de verificação, o que impediria o acesso automatizado.
 
